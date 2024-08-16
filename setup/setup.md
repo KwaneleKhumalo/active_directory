@@ -58,7 +58,6 @@ https://github.com/user-attachments/assets/1af57eee-7041-4f4c-a4dc-6ee86f67c17d
                ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
 
             - Complete your setup by adding a strong password:
-
                 ![Enter Password for your Server](../images/Password.png)
 
             - Ctrl+Alt+Delete may not work to unlock if your host is a Windows Machine. Instead, on a menu bar ***Select Input > Keyboard > Insert Ctrl-Alt-Del***
