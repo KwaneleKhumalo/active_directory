@@ -44,20 +44,15 @@
         2. Install A Windows Server:
             - Click Start to start the VM
             - Your VM Will start the Installation. Follow this to complete the setup:
-          
 
-      
-
-https://github.com/user-attachments/assets/1af57eee-7041-4f4c-a4dc-6ee86f67c17d
-
-
-
-
+                https://github.com/user-attachments/assets/1af57eee-7041-4f4c-a4dc-6ee86f67c17d
+            
 
             - After the installation is Complete, the Operating System will restart
                ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
 
             - Complete your setup by adding a strong password:
+                * See below 
                 ![Enter Password for your Server](../images/Password.png)
 
             - Ctrl+Alt+Delete may not work to unlock if your host is a Windows Machine. Instead, on a menu bar ***Select Input > Keyboard > Insert Ctrl-Alt-Del***
