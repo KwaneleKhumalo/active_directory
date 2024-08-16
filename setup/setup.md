@@ -66,7 +66,9 @@
     You may have noticed that your OS is not taking on full-screen mode.
     That's because we need to insert Guest Additions CD Image. 
     The VIDEO below will show you how to do this. 
-    Reboot the system when done. This will need to be done on all your VMs. 
+    Reboot the system when done. This will need to be done on all your VMs.
+
+#### Press Right Ctrl-F to enable/disable full screen. Press Switch to confirm.
     
 
 
