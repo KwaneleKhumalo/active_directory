@@ -37,11 +37,8 @@
 
     - Follow the installation guide below: 
 
-        1. Create a New CM:
-
-         
-
-
+        1. Setup and allocate resources for the Windows Server:
+        
 https://github.com/user-attachments/assets/c2328305-2909-4e40-908b-2533b0276a92
 
 
