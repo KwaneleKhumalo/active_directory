@@ -37,5 +37,8 @@
 
     - Follow the installation guide below: 
 
-        1. 
+        1. Create a New CM:
+
+         
+
 
