@@ -68,18 +68,10 @@
     The VIDEO below will show you how to do this. 
     Reboot the system when done. This will need to be done on all your VMs.
 
-#### Press Right Ctrl-F to enable/disable full screen. Press Switch to confirm.
-    
-
-
-
-
 https://github.com/user-attachments/assets/d883467a-ace8-47e3-911c-22f2d8c3841b
 
+#### Press Right Ctrl-F to enable/disable full screen. Press Switch to confirm.
 
-
-
-
-Congrats! You have installed your first VM!
+## Congrats! You have installed your first VM!
             
             
