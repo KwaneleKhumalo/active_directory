@@ -37,4 +37,8 @@ This lab will demonstrate the process of setting up the lab environment using Vi
     - Server/Domain Installation and Setup
     - Windows Client Installation
 
+* ## AD Installation and Setup
+    - AD Installation
+    - Setup AD Domain Services.
+
 
