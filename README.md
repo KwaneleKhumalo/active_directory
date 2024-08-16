@@ -1,6 +1,7 @@
-# Active Directory Home Lab \
+# Active Directory Home Lab 
+(Still under development)
 
-## Introduction \
+## Introduction
 
 Active Directory (AD) is a Microsoft service developed to centralize the management or an organization's network resources across defined domains. It stores data as objects, making it intuitive for administrators and users to find and use. 
 
