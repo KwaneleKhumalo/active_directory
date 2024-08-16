@@ -48,9 +48,18 @@
 
 
             - After the installation is Complete, the Operating System will restart
-            - ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
+               ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
+
             - Complete your setup by adding a strong password:
 
                 ![Enter Password for your Server](../images/Password.png)
 
+            - Ctrl+Alt+Delete may not work to unlock if your host is a Windows Machine. Instead, on a menu bar ***Select Input > Keyboard > Insert Ctrl-Alt-Del***
+                - Enter Your Password and the Desktop will launch!
+                - Select YES to allow "This PC to be Discoverable".
 
+            -The Server Manager will launch automatically.
+
+Congrats! You have installed your first VM!
+            
+            
