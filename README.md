@@ -27,3 +27,14 @@ This lab will demonstrate the process of setting up the lab environment using Vi
 * Virtualization
 * Windows Server
 * Computer and Basic Troubleshooting skills
+
+# File Structure
+
+* ## Setup
+    - Installation Guide
+    - Downloading and Installing VirtualBox
+    - Configuring Nat Networks
+    - Server/Domain Installation and Setup
+    - Windows Client Installation
+
+
