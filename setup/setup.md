@@ -12,7 +12,7 @@
 
 1. #### Go to File > Tools > Network Manager
     - This will help us configure Networks
-    
+
         ![Network Manager Img](../images/Nat.png)
 
 2. #### Select the 'NAT Networks' tab on the right pane
@@ -26,3 +26,16 @@
         ![VirtualBox IP Setup](../images/VB_IP.png)
 
 3. #### Click 'Apply' at the bottom right to accept the changes
+
+
+## Windows Server Setup
+
+* ### Windows Server Download & Installation
+    - Download Windows Server [ISO FILE] Here: [Win 2022 Download Website](https://info.microsoft.com/ww-landing-windows-server-2022.html)
+
+    - ***The download can take time depending on your machine's resources, so plan accordingly.***
+
+    - Follow the installation guide below: 
+
+        1. 
+
