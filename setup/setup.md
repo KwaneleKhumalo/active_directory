@@ -72,6 +72,10 @@ https://github.com/user-attachments/assets/d883467a-ace8-47e3-911c-22f2d8c3841b
 
 #### Press Right Ctrl-F to enable/disable full screen. Press Switch to confirm.
 
+## Configure Your VM to the Nat Network we created earlier:
+
+
+
 ## Congrats! You have installed your first VM!
             
             
