@@ -38,8 +38,19 @@
     - Follow the installation guide below: 
 
         1. Setup and allocate resources for the Windows Server:
-        
-https://github.com/user-attachments/assets/c2328305-2909-4e40-908b-2533b0276a92
 
+            https://github.com/user-attachments/assets/c2328305-2909-4e40-908b-2533b0276a92
+        
+        2. Install A Windows Server:
+            - Click Start to start the VM
+            - Your VM Will start the Installation. Follow this to complete the setup: 
+
+
+
+            - After the installation is Complete, the Operating System will restart
+            - ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
+            - Complete your setup by adding a strong password:
+
+                ![Enter Password for your Server](../images/Password.png)
 
 
