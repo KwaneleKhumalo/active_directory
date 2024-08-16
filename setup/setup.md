@@ -12,6 +12,7 @@
 
 1. #### Go to File > Tools > Network Manager
     - This will help us configure Networks
+    
         ![Network Manager Img](../images/Nat.png)
 
 2. #### Select the 'NAT Networks' tab on the right pane
