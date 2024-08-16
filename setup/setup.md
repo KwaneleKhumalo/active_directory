@@ -43,7 +43,14 @@
         
         2. Install A Windows Server:
             - Click Start to start the VM
-            - Your VM Will start the Installation. Follow this to complete the setup: 
+            - Your VM Will start the Installation. Follow this to complete the setup:
+          
+
+      
+
+https://github.com/user-attachments/assets/1af57eee-7041-4f4c-a4dc-6ee86f67c17d
+
+
 
 
 
