@@ -52,7 +52,7 @@
                ***DO NOT PRESS ANY KEY WHEN THE MACHINE BOOTS UP***
 
             - Complete your setup by adding a strong password:
-                * See below 
+                 
                 ![Enter Password for your Server](../images/Password.png)
 
             - Ctrl+Alt+Delete may not work to unlock if your host is a Windows Machine. Instead, on a menu bar ***Select Input > Keyboard > Insert Ctrl-Alt-Del***
