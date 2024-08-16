@@ -63,9 +63,10 @@
             - ##### Before we do anything further, check for any available updates and install all of those updates. This will help us work with an up-to-date and hardened Operating System.
 
 ## ***IMPORTANT*** GUEST ADDITIONS (Enabling Full Screen)
-    You may have noticed that your OS is running on a small screen and no matter what you have tried, somehow, nothing works. 
+    You may have noticed that your OS is not taking on full-screen mode.
     That's because we need to insert Guest Additions CD Image. 
-    The VIDEO below will show you how to do this. Reboot the system when done. This will need to be done on all your VMs. 
+    The VIDEO below will show you how to do this. 
+    Reboot the system when done. This will need to be done on all your VMs. 
     
 
 
