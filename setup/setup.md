@@ -76,6 +76,10 @@ https://github.com/user-attachments/assets/d883467a-ace8-47e3-911c-22f2d8c3841b
 
 
 
+https://github.com/user-attachments/assets/23ce374e-0e39-4f01-8ef2-04a848b0901e
+
+
+
 ## Congrats! You have installed your first VM!
             
             
