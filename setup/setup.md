@@ -8,7 +8,7 @@
     - Run and Complete the Installation
 
 * ### Configure VirtualBox Network Settings
-    - Launch VirtualBox and get follow the configuration steps below:
+    - Launch VirtualBox and follow the configuration steps below:
 
 1. #### Go to File > Tools > Network Manager
     - This will help us configure Networks
