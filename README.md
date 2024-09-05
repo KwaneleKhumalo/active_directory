@@ -1,5 +1,5 @@
 # Active Directory Project: Home Lab 2024
-(Still in progress)
+(Slow progress on this as I am juggling between school and work)
 
 ## Introduction
 
