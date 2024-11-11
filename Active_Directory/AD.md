@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/26cf24cb-394b-4a41-86d8-b760bd547307
 
 
 
-## Great! You have installed your ADDS. Next Step is working with OUs. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/orgaizational_units/ou.md" target="_blank">Organizational Units</a>!
+## Great! You have installed your ADDS. Next Step is working with OUs. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/organizational_units/ou.md" target="_blank">Organizational Units</a>!
 
 
 
