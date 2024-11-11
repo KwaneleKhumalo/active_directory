@@ -44,7 +44,10 @@ https://github.com/user-attachments/assets/633231ab-71ff-48af-90fd-66d3b5b82a05
     - Sign-out of the current account
     - On the login screen, Select "Other user"
     - Enter the new Admin Account Credentials
-        - Mine is sparks.sparky@sparksdc.com
+        - Mine is sparks.sparky
     - If you followed the steps correctly, you will be welcomed by a new desktop.
-        - Troubleshoot any issues if needed. 
-        
+        - Troubleshoot any issues if needed.
+     
+
+        ![Admin_Logon](https://github.com/user-attachments/assets/ff4c0067-2e3c-48c3-a42c-60dafe06af8c)
+
