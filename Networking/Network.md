@@ -24,7 +24,7 @@
     - run 'ipconfig /all' to confirm both your adapters are configured
     - Quick visual demo below:
 
-https://github.com/user-attachments/assets/3fcad3ca-df4e-4710-b972-b1f52ffbb39
+    https://github.com/user-attachments/assets/3fcad3ca-df4e-4710-b972-b1f52ffbb39
 
 * ### Configure and Assign IPv4 to Internal Network
     - Launch Control Panel
