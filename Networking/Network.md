@@ -5,8 +5,7 @@
 * ### Run the newly installed Windows Server
     - Launch the Command Prompt as 'Administrator'
     -  Run the following snippet to check the current IP configuration
-        - ```bash
-            # ipconfig
+        - ```bash   ipconfig
     - Next, ping 'google.com' to check network connection (troubleshoot any issues if you're not getting desired responses from the ping)
     - If everything is as expected, turn off your server machine and move on to adding another Network adapter. See the following step ('Configuring Server Network)
 
@@ -56,7 +55,7 @@ https://github.com/user-attachments/assets/c5b5dc97-38ff-4d8a-88af-fd8229c4882f
 
 https://github.com/user-attachments/assets/9554bf8d-d0b4-4980-9a95-6c79fd441c4b
 
-     - Launch command line and run 'ipconfig' to verify changes to your internal network. Troubleshoot issues if needed. 
+- Launch command line and run 'ipconfig' to verify changes to your internal network. Troubleshoot issues if needed. 
 
 ## Sweet!! We have configured our Network! Next, we're going to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Active_Directory/AD.md" target="_blank">Active Directory</a>!
     
