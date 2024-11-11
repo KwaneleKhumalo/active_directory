@@ -17,10 +17,6 @@
 
 
 
-Uploading Admin_OU_Acc.mp4…
-
-
-
 
     - Next, we need to make this account a 'Member Of' admins. To do so, see below:
 
