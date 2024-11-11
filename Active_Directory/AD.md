@@ -13,6 +13,10 @@
 
 
 
+https://github.com/user-attachments/assets/5946f503-756b-4aed-b89e-8cb79c264f68
+
+
+
 * ### Installing Active Directory Domain Services (ADDS)
     - Top-Right corner, Select 'Manage' from the menu items
     - Select 'Add Roles and Features' option
@@ -25,6 +29,10 @@
     - See Demo Below
 
 
+
+
+
+https://github.com/user-attachments/assets/d6d47a61-1a42-4494-9af6-9d4ab4e24c96
 
 
 
@@ -41,6 +49,10 @@
     - You will be signed out after the installation is complete and the system will restart to apply the settings
     - See Demo below:
 
+
+
+
+https://github.com/user-attachments/assets/26cf24cb-394b-4a41-86d8-b760bd547307
 
 
 
