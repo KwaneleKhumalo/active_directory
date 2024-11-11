@@ -24,13 +24,7 @@
     - run 'ipconfig /all' to confirm both your adapters are configured
     - Quick visual demo below:
 
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/3fcad3ca-df4e-4710-b972-b1f52ffbb39
 
 * ### Configure and Assign IPv4 to Internal Network
     - Launch Control Panel
@@ -51,14 +45,9 @@
     - Apply all your changes and close Networking window
     - See Short Demo Below:
 
+https://github.com/user-attachments/assets/9554bf8d-d0b4-4980-9a95-6c79fd441c4b
 
-
-
-
-
-
-
-    - Launch command line and run 'ipconfig' to verify changes to your internal network. Troubleshoot issues if needed. 
+     - Launch command line and run 'ipconfig' to verify changes to your internal network. Troubleshoot issues if needed. 
 
 ## Sweet!! We have configured our Network! Next, we're going to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Active_Directory/AD.md" target="_blank">Active Directory</a>!
     
