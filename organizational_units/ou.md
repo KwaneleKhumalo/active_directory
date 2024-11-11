@@ -10,9 +10,14 @@
 
 
 
-    - Select your domain, right-click and Select Organizational Unit
+    - Select your domain, right-click, select 'new' then Select Organizational Unit
     - Type in the name of your of your OU (Administrators, Users, etc.) and click 'OK'
     - Your newly created Admin account will show on the right pane.
+
+
+
+
+Uploading Admin_OU_Acc.mp4…
 
 
 
