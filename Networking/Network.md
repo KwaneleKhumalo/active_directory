@@ -5,7 +5,8 @@
 * ### Run the newly installed Windows Server
     - Launch the Command Prompt as 'Administrator'
     -  Run the following snippet to check the current IP configuration
-        - ```bash   ipconfig
+        - ```bash
+            ipconfig
     - Next, ping 'google.com' to check network connection (troubleshoot any issues if you're not getting desired responses from the ping)
     - If everything is as expected, turn off your server machine and move on to adding another Network adapter. See the following step ('Configuring Server Network)
 
