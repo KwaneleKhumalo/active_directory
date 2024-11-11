@@ -8,7 +8,7 @@
     - Launch Server Manager
     - Select Tools, then Choose Active Directory Users and Computers as shown below
 
-
+    
 
     - Select your domain, right-click, select 'new' then Select Organizational Unit
     - Type in the name of your of your OU (Administrators, Users, etc.) and click 'OK'
@@ -16,19 +16,23 @@
 
 
 
+https://github.com/user-attachments/assets/fd4546a2-7d95-4a2f-bceb-630bc0a6f356
 
-Uploading Admin_OU_Acc.mp4…
+
 
 
 
 
     - Next, we need to make this account a 'Member Of' admins. To do so, see below:
+ 
+    
 
 
 
 
 
-Uploading Admin_Account.mp4…
+
+https://github.com/user-attachments/assets/633231ab-71ff-48af-90fd-66d3b5b82a05
 
 
 
