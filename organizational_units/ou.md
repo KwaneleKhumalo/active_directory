@@ -7,6 +7,8 @@
 * ### Creating OU, and an Admin Account
     - Launch Server Manager
     - Select Tools, then Choose Active Directory Users and Computers as shown below
+ 
+
 ![Launch_Users_Computers](https://github.com/user-attachments/assets/23be1c9a-2f0f-4a88-b2d0-014cb75607d2)
 
     
