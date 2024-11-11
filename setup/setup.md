@@ -80,6 +80,6 @@ https://github.com/user-attachments/assets/23ce374e-0e39-4f01-8ef2-04a848b0901e
 
 
 
-## Congrats! You have installed your first VM! The next step is to get our AD installed! Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Active_Directory/AD.md" target="_blank">Active_Directory</a>!
+## Congrats! You have installed your first VM! The next step is to get our AD installed! Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Networking/Network.md" target="_blank">Networking</a>!
             
             
