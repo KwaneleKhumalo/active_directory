@@ -23,8 +23,17 @@
     - (Optional) Rename each adapter in the Network Connections to public facing network from a private-internal network
     - run 'ipconfig /all' to confirm both your adapters are configured
     - Quick visual demo below:
+ 
 
-    https://github.com/user-attachments/assets/3fcad3ca-df4e-4710-b972-b1f52ffbb39
+
+
+
+https://github.com/user-attachments/assets/c5b5dc97-38ff-4d8a-88af-fd8229c4882f
+
+
+
+
+      
 
 * ### Configure and Assign IPv4 to Internal Network
     - Launch Control Panel
