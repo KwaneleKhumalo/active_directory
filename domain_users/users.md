@@ -18,10 +18,10 @@ Therefore, we will create a environment variable and then store that password in
 
 - Launch PowerShell and Run it as Administrator
 - In your terminal type in the following script then press enter:
-    - ```bash
+    - ```powershell
         $password = Read-Host "Enter User Password:" -AsSecureString
 - In the prompt, enter a default password for your user. For example:
-    - ```bash
+    - ```powershell
         P@ssword
 
 
@@ -29,10 +29,10 @@ Therefore, we will create a environment variable and then store that password in
 The Following script will create a new user, assign a user name, assign the default password from the environment variable we created, and then add the user to the Users Organizational Unit.
 
 - In your terminal type the following (Change the values, such as domain and user information to match your own) script and then press enter:
-    - ```bash
+    - ```powershell
         New ADUser -SamAccountName "jane.smith" -Name "Jane Smith" -GivenName "Jane" -Surname "Smith" -UserPrincipalName "jane.smith@sparksdc.com" -Password $password -Path "OU=Users,DC=sparksdc,DC=com"
 - Verify that your user exists with the following:
-    - ```bash
+    - ```powershell
         GET-AdGroupMember -Identity "Users"
 - Troubleshoot any issues as needed
 
@@ -42,12 +42,12 @@ The Following script will mandate a user to create a new password when they logo
 - In your terminal type the following (Use the name of the user you created) scripts and then press enter:
 
     - Import Active Directory Module (Then press enter):
-        - ```bash
+        - ```powershell
             Import-Module ActiveDirectory
 
 
     - Change Password on logon (Then press enter):
-        - ```bash
+        - ```powershell
             Set-AdUser -Identity "jane.smith" -UserMustChangePassword $true
 
 - Troubleshoot any issues as needed
