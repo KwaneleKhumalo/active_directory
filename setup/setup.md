@@ -80,6 +80,13 @@ https://github.com/user-attachments/assets/23ce374e-0e39-4f01-8ef2-04a848b0901e
 
 
 
-## Congrats! You have installed your first VM! The next step is to get our AD installed! Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Networking/Network.md" target="_blank">Networking</a>!
+
+* ### Windows 10 Enterprise Download & Installation
+    - ##### Download Windows Server [ISO FILE] Here: [Win 10 Download Website](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
+
+    - ***Follow similar instructions as the Windows Server for the installation.***
+
+
+## Congrats! You have installed your VMs! The next step is to get our AD installed! Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/Networking/Network.md" target="_blank">Networking</a>!
             
-            
+
