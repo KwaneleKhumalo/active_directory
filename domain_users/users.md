@@ -43,7 +43,7 @@ The Following script will mandate a user to create a new password when they logo
 
     - Import Active Directory Module (Then press enter):
         - ```bash
-        Import-Module ActiveDirectory
+            Import-Module ActiveDirectory
 
 
     - Change Password on logon (Then press enter):
