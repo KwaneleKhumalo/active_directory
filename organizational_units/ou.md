@@ -51,3 +51,7 @@ https://github.com/user-attachments/assets/633231ab-71ff-48af-90fd-66d3b5b82a05
 
         ![Admin_Logon](https://github.com/user-attachments/assets/ff4c0067-2e3c-48c3-a42c-60dafe06af8c)
 
+
+## Great! The next phase is to create domain users with PowerShell. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/domain_users/users.md" target="_blank">Domain Users</a>!
+
+
