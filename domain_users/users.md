@@ -1,4 +1,4 @@
-# Creating Users & Joining a Domain using PowerShell
+# Creating Users
 
 ## Summary (PowerShell Disclaimer)
 
