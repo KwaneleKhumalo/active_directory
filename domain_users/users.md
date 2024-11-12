@@ -36,7 +36,7 @@ The Following script will create a new user, assign a user name, assign the defa
         GET-AdGroupMember -Identity "Users"
 - Troubleshoot any issues as needed
 
-* ### Creating a new User
+* ### Change password Policy
 The Following script will mandate a user to create a new password when they logon. To this, we will need to import a AD Module. 
 
 - In your terminal type the following (Use the name of the user you created) scripts and then press enter:
