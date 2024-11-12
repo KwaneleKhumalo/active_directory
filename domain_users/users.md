@@ -25,6 +25,9 @@ Therefore, we will create a environment variable and then store that password in
         P@ssword
 
 
+    ![Read-Host_Password](https://github.com/user-attachments/assets/364258d9-989c-4d3d-bf34-442b0a8d8ac4)
+
+
 * ### Creating a new User
 The Following script will create a new user, assign a user name, assign the default password from the environment variable we created, and then add the user to the Users Organizational Unit.
 
@@ -73,9 +76,16 @@ The Following script will enable a user we created so they can be able to login 
         - ```powershell
             Enable-ADAccount -Identity "jane.smith"
 
+
+        ![Enable_User](https://github.com/user-attachments/assets/114777c9-a4be-412e-aaec-e73d75edffc1)
+
+
     - Verify your changes
         - ```powershell
             GET-ADUser -Identity "jane.smith"
+
+        ![Verify_OU_User](https://github.com/user-attachments/assets/6d4d9b10-47c5-43fa-885d-4ef7ccd58ae1)
+
 
 - Troubleshoot any issues as needed
 
