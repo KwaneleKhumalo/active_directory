@@ -13,7 +13,7 @@
 
 
 * ### Storing a Password in the environment Variable
-For security reasons, it's not advisable to store passwords as plainText.
+For security reasons, it's not recommended to store passwords as plainText.
 Therefore, we will create a environment variable and then store that password in that variable. To do this, see below:
 
 - Launch PowerShell and Run it as Administrator
@@ -92,4 +92,4 @@ The Following script will enable a user we created so they can be able to login 
 *** You can create as many users as you want. It may be good practice to create a few more users to get familiar with PowerShell ***
 
 
-# Joining Domain Users
+
