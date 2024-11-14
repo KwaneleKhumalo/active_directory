@@ -101,7 +101,7 @@ So far, we have all the requirements to join the client machine to a domain cont
 
     
 - Possible Error message you may get:
-        - "The specified domain either does not exist or could not be contacted"
+    - "The specified domain either does not exist or could not be contacted"
         - Possible Solutions below:
             - ```powershell
                 #Flush the DNS cache by running the following cmd
