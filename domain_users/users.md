@@ -91,5 +91,5 @@ The Following script will enable a user we created so they can be able to login 
 
 *** You can create as many users as you want. It may be good practice to create a few more users to get familiar with PowerShell ***
 
-
+## The next phase is to join a client machine to a domain. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/join_domain/join.md" target="_blank">Joining a Domain</a>!
 
