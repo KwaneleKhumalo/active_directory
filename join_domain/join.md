@@ -23,6 +23,9 @@ Currently, if you ping your domain IP address, you should be receiving "timeout"
 - Start your client Machine
 - Go to your Network sharing and verify that you have 2 adapters. You may rename these as we did on our server.
 
+![Clien_2_Adapters](https://github.com/user-attachments/assets/055c7915-03ae-4f78-9740-7876c22b51a8)
+
+
 * ### Configure IPv4 Address
 Before starting. Make sure your client machine shows two Network Adapters (1 and 2) as stated above.
 
@@ -37,6 +40,9 @@ Before starting. Make sure your client machine shows two Network Adapters (1 and
         #For this section, we need the ifIndex number of our Internal Network
         Get-NetAdapter
 
+![Get-Adapter](https://github.com/user-attachments/assets/cfb40635-09ce-4ad2-90cc-4e8bc252ea33)
+
+
 - Assign a new IPv4 address to Internal Network
     - ```powershell
         New-NetIPAddress -InterfaceIndex 14 -IPAdress 172.20.0.2 -PrefixLength 24
@@ -45,14 +51,24 @@ Before starting. Make sure your client machine shows two Network Adapters (1 and
         # IPAddress: The IP Address we're configuring
         # -PrefixLength: Subnet Mask. This is the same as our Domain (Important)
 
+
+    ![New_IP](https://github.com/user-attachments/assets/c6eec0f2-0406-4448-b091-8e3f6dfc74d7)
+
+
 - Verify newly configured IP Address
     - ```powershell
         ipconfig
 
+![ipConfig_Powershell](https://github.com/user-attachments/assets/810d2f3f-51bd-480f-818b-6e426b178673)
+
+
 - Ping Server to get a response
     - ```powershell
         ping 172.20.0.1
-        #if you configured everything correctly, you should receive a response from the server. If not, this is a perfect time to exercise your analytical and troubleshooting skills. 
+        #if you configured everything correctly, you should receive a response from the server. If not, this is a perfect time to exercise your analytical and troubleshooting skills.
+
+    
+![ping_server](https://github.com/user-attachments/assets/11b00203-a14c-45a2-adc6-88c1a40f9462)
 
 
 * ### Joining a Domain
@@ -66,6 +82,10 @@ So far, we have all the requirements to join the client machine to a domain cont
         Rename-Computer -NewName Jane-Smith-PC
         # Restart the PC to apply the changes
         Restart-Computer
+
+
+    ![Change_PC_Name](https://github.com/user-attachments/assets/7c89aa6b-3e3e-4411-9956-bc0f07105c0a)
+
     
     - After the PC has restarted. Go to the About PC and verify that the changes have been applied.
 
@@ -76,7 +96,11 @@ So far, we have all the requirements to join the client machine to a domain cont
         Add-Computer -DomainName sparksdc.com -Restart
         #You will be prompted to enter your Domain Admin Password.
 
-    - Possible Error message you may get:
+
+![Join_Domain](https://github.com/user-attachments/assets/218da14f-96ac-453b-a33e-8278d5e07f6d)
+
+    
+- Possible Error message you may get:
         - "The specified domain either does not exist or could not be contacted"
         - Possible Solutions below:
             - ```powershell
