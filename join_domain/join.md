@@ -110,4 +110,6 @@ So far, we have all the requirements to join the client machine to a domain cont
 
 - Troubleshoot other issues as needed.
 
+## The next phase is to create a few group policies for our environment. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/group_policy/group_policy.md" target="_blank">Group Policy</a>!
+
         
