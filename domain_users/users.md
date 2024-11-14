@@ -2,13 +2,13 @@
 
 ## Summary (PowerShell Disclaimer)
 
-**** For this lab section, we are going to create users, then join those users to a domain controller. ****
+*** For this lab section, we are going to create users, then join those users to a domain controller. ***
 
-**** This section will use PowerShell. So, it's important that you understand scripting, or at least you are comfortable working with the terminal to follow along. ****
+*** This section will use PowerShell. So, it's important that you understand scripting, or at least you are comfortable working with the terminal to follow along. ***
 
-**** IT professionals use scripts for various tasks. And so, getting comfortable with scripts will benefit you in your profession. ****
+*** IT professionals use scripts for various tasks. And so, getting comfortable with scripts will benefit you in your profession. ****
 
-**** Let's jump in ****
+*** Let's jump in ****
 
 
 

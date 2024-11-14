@@ -1,6 +1,6 @@
 # Active Directory Organizational Units (OU)
 
-**** For this lab, we're just going to setup 2 or 3 Organizational Units. ****
+*** For this lab, we're just going to setup 1 Organizational Unit. ***
 
 ## Creating OU, and an Admin Account
 

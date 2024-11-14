@@ -1,11 +1,11 @@
 # Active Directory Project: Home Lab 2024
-(Slow progress on this as I am juggling between school and work)
 
-## Introduction
+## Summary
 
-Active Directory (AD) is a Microsoft Database service developed to centralize the management or an organization's network resources across defined domains. It stores data as objects, making it intuitive for administrators and users to find and use. 
+Active Directory (AD) is a Microsoft directory service designed to centralize the management of network resources across defined domains. It stores information about users, computers, and other network objects in a structured database, making it easier for administrators to manage and secure their network.
 
-This lab will demonstrate the process of setting up the lab environment using Virtual Box, installation of Microsoft's Windows Server and Windows 10. We will then demonstrate how to setup a domain network, install AD, Join the AD and much more. 
+This lab provides snapshot process of setting up a virtual lab environment using VirtualBox, installing Windows Server and Windows 10, configuring a domain network, installing Active Directory, joining domain devices, Working with Powershell, and more.
+
 
 ## Key Components of AD that we focus on:
 
@@ -30,16 +30,32 @@ This lab will demonstrate the process of setting up the lab environment using Vi
 
 # File Structure
 
-* ## Setup
-    - Installation Guide
-    - Downloading and Installing VirtualBox
-    - Configuring Nat Networks
-    - Server/Domain Installation and Setup
-    - Windows Client Installation
-
-* ## AD Installation and Setup
-    - AD Installation
-    - Setup AD Domain Services.
-    - Setup a Domain Tree
+1. ## Setup
+    - Setting up the Virtual Environment along with other Virtual Machines
+2. ## Network
+    - Configuring Virtual Network Cards
+    - Configuring IP Address Information 
+    - Configuring Network Adapters
+3. ## Active Directory
+    - Installing Active Directory
+    - Configuring Active Directory
+    - Deploy Active Directory
+4. ## Organizational Units
+    - Creating an Organizational Unit
+    - Configure OU Management
+5. ## Domain Users
+    - Getting Started with Powershell
+    - Creating Users with Powershell
+    - Creating OU with Powershell
+    - Working with Environment Variables within Powershell
+    - Add a user to a OU
+    - Enforce password change on logon for a user
+6. ## Join Domain
+    - Add Adapter 2 to Client Machine
+    - Configure client machine using Powershell
+    - Configure Networks for the client machine
+    - Join the client machine to a domain
+7. ## Security
+    - Configure Password security with Powershell. 
 
 

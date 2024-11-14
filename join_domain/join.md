@@ -2,7 +2,7 @@
 
 ## Summary
 
-**** For this lab section, we're going to login to our Windows 10 (Jane's VM) Workgroup Machines, then join the domain server. All the work in this section will be completed using powershell. ****
+*** For this lab section, we're going to login to our Windows 10 (Jane's VM) Workgroup Machines, then join the domain server. All the work in this section will be completed using powershell. ***
 
 *** Before we start joining a domain, we first need to make sure that our Clien't machine is connected to the same network as our server. Based on our setup, this is not the case intentionally. So currently, our client machine should be connected to Adapter 1 (NAT Network) ONLY. ***
 
@@ -110,6 +110,6 @@ So far, we have all the requirements to join the client machine to a domain cont
 
 - Troubleshoot other issues as needed.
 
-## The next phase is to create a few group policies for our environment. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/group_policy/group_policy.md" target="_blank">Security Policy</a>!
+## The next phase is to create a few group policies for our environment. Head over to <a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/security_policy/group_policy.md" target="_blank">Security Policy</a>!
 
         
