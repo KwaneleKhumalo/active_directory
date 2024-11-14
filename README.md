@@ -58,4 +58,7 @@ This lab provides snapshot process of setting up a virtual lab environment using
 7. ## Security
     - Configure Password security with Powershell. 
 
+## Get Started
+<a href="https://github.com/KwaneleKhumalo/active_directory/blob/master/setup/setup.md" target="_blank">Setup</a>!
+
 
