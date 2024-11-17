@@ -4,7 +4,7 @@
 
 Active Directory (AD) is a Microsoft directory service designed to centralize the management of network resources across defined domains. It stores information about users, computers, and other network objects in a structured database, making it easier for administrators to manage and secure their network.
 
-This lab provides snapshot process of setting up a virtual lab environment using VirtualBox, installing Windows Server and Windows 10, configuring a domain network, installing Active Directory, joining domain devices, Working with Powershell, and more.
+This lab provides snapshot of processes for setting up a virtual lab environment using VirtualBox, installing Windows Server and Windows 10, configuring a domain network, installing Active Directory, joining domain devices, Working with Powershell, and more.
 
 
 ## Key Components of AD that we focus on:
